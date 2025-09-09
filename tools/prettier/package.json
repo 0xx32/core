@@ -1,0 +1,37 @@
+{
+  "name": "@0x32/prettier",
+  "description": "prettier configs",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "prettier"
+  ],
+  "author": {
+    "name": "0x32 🧊",
+    "url": "https://github.com/0xx32"
+  },
+
+  "homepage": "https://github.com/0xx32/core/tools",
+  "repository": {
+    "url": "https://github.com/0xx32/core/tools"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    ".prettierrc.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"*.js\""
+  },
+  "lint-staged": {
+    "*.js": "prettier --write"
+  },
+  "peerDependencies": {
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
+}

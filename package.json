@@ -1,0 +1,22 @@
+{
+  "name": "0x32-core",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "prettier"
+  ],
+  "private": true,
+  "author": {
+    "name": "0x32 🧊",
+    "url": "https://github.com/0xx32"
+  },
+
+  "repository": {
+    "url": "https://github.com/0xx32/core"
+  },
+  "workspaces": [
+    "tools/*"
+  ],
+  "scripts": {},
+  "devDependencies": {}
+}
