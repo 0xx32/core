@@ -1,2 +1,3 @@
-const prettier = require('./.prettierrc.js');
-module.exports = { prettier };
+import config from './prettierrc.js'
+
+export default config;

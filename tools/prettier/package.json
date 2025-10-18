@@ -1,8 +1,8 @@
 {
   "name": "@0x32/prettier",
-  "description": "prettier configs",
+  "description": "prettier config",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "prettier"
   ],
@@ -11,13 +11,14 @@
     "url": "https://github.com/0xx32"
   },
 
-  "homepage": "https://github.com/0xx32/core/tools",
+  "homepage": "https://github.com/0xx32/core/tools/prettier",
   "repository": {
-    "url": "https://github.com/0xx32/core/tools"
+    "url": "https://github.com/0xx32/core/tools/prettier"
   },
   "publishConfig": {
     "access": "public"
   },
+  "type": "module",
   "files": [
     ".prettierrc.js"
   ],
