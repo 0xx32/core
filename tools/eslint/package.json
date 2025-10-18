@@ -12,9 +12,9 @@
     "url": "https://github.com/0xx32"
   },
 
-  "homepage": "https://github.com/0xx32/core/tools/eslint",
+  "homepage": "https://github.com/0xx32/core",
   "repository": {
-    "url": "https://github.com/0xx32/core/tools/eslint"
+    "url": "https://github.com/0xx32/core"
   },
   "publishConfig": {
     "access": "public"
