@@ -1,0 +1,27 @@
+{
+  "name": "@0x32/eslint",
+  "description": "eslint configs",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": {
+    "name": "0x32 🧊",
+    "url": "https://github.com/0xx32"
+  },
+
+  "homepage": "https://github.com/0xx32/core/tools/eslint",
+  "repository": {
+    "url": "https://github.com/0xx32/core/tools/eslint"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@antfu/eslint-config": "^6.0.0",
+    "eslint-plugin-perfectionist": "^4.15.1"
+  }
+}
