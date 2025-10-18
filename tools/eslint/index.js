@@ -1,7 +1,7 @@
 import antfu from "@antfu/eslint-config";
 import perfectionist from "eslint-plugin-perfectionist";
 
-export const nodeConfig = antfu(
+export const eslintConfig = antfu(
   {
     stylistic: false,
     formatters: false,
