@@ -2,7 +2,7 @@
   "name": "@0x32/prettier",
   "description": "prettier config",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "prettier"
   ],
@@ -19,9 +19,6 @@
     "access": "public"
   },
   "type": "module",
-  "files": [
-    ".prettierrc.js"
-  ],
   "main": "index.js",
   "scripts": {
     "format": "prettier --write \"*.js\""
