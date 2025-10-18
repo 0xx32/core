@@ -11,9 +11,9 @@
     "url": "https://github.com/0xx32"
   },
 
-  "homepage": "https://github.com/0xx32/core/tools/prettier",
+  "homepage": "https://github.com/0xx32/core",
   "repository": {
-    "url": "https://github.com/0xx32/core/tools/prettier"
+    "url": "https://github.com/0xx32/core"
   },
   "publishConfig": {
     "access": "public"
